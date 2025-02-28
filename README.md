@@ -32,13 +32,6 @@ The chatbot extracts relevant information from the official documentation of the
 - Processes different phrasing styles and lengths without breaking.
 - Filters out **irrelevant** questions (e.g., *"Which movie is releasing this week?"*).
 
-### 4. Cross-CDP Comparisons *(Bonus Feature)*
-- Provides **comparisons** between different CDPs.
-- Example: *"How does Segment's audience creation process compare to Lytics'?"*
-
-### 5. Advanced "How-to" Questions *(Bonus Feature)*
-- Handles **complex and platform-specific queries**.
-- Provides advanced guidance on **integrations, configurations, and use cases**.
 
 ---
 
