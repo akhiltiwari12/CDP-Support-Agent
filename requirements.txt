@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+flask
+nltk
+scikit-learn
+numpy
+scipy
+html2text
+tqdm
